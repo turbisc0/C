@@ -25,6 +25,7 @@ int main(){
     int x11 = 10;
 
     // Operadores Aritméticos
+    
     z1 = x1 + y1;
     z2 = x2 - y2;
     z3 = x3 * y3;
