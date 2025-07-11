@@ -33,4 +33,5 @@ int main(){
     printf("%+7.2f\n", preco2);
     printf("%08.2f\n", preco3);
 
+    return 0;
 }
